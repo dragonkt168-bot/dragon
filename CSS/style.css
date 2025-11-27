@@ -5,3 +5,6 @@ h1.class{
     font-style: italic;
     color: aqua;
 }
+image{
+    height: max-content;
+}
